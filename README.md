@@ -1,2 +1,3 @@
 # CursoCamilo
 Curso de Gestión de la Información.
+En este repositorio se crea una descripción de.......
